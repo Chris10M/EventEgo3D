@@ -82,7 +82,7 @@ The datasets can obtained by executing the files in [`dataset_scripts`](./datase
 
 ### Training
 
-For training, ensure [EE3D-S](#ee3d-s), [EE3D-R](#ee3d-r) and [EE3D[BG-AUG]](#ee3d-bg-aug) are present. 
+For training, ensure [EE3D-S](./dataset_scripts#ee3d-s), [EE3D-R](./dataset_scripts#ee3d-r) and [EE3D[BG-AUG]](./dataset_scripts#ee3d-bg-aug) are present. 
 The batch size and checkpoint path can be specified with the following environment variables, ```BATCH_SIZE``` and ```CHECKPOINT_PATH```.
 
 ```bash
@@ -92,7 +92,7 @@ python train.py
 ### Evaluation
 
 #### EE3D-S 
-For evaluation, ensure [EE3D-S Test](#ee3d-s-test) is present. Please run, 
+For evaluation, ensure [EE3D-S Test](./dataset_scripts#ee3d-s-test) is present. Please run, 
 
 ```bash
 python evaluate_ee3d_s.py 
@@ -106,7 +106,7 @@ The provided [pretrained](#pretrained-model) checkpoint gives us an accuracy of,
 
 
 #### EE3D-R
-For evaluation, ensure [EE3D-R](#ee3d-r) is present. Please run, 
+For evaluation, ensure [EE3D-R](./dataset_scripts#ee3d-r) is present. Please run, 
 
 ```bash
 python evaluate_ee3d_r.py 
