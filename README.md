@@ -1,4 +1,12 @@
 # EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams [CVPR'24]
+<center>
+
+Christen Millerdurai<sup>1,2</sup>, Hiroyasu Akada<sup>1</sup>, Jian Wang<sup>1</sup>, Diogo Luvizon<sup>1</sup>, Christian Theobalt<sup>1</sup>, Vladislav Golyanik<sup>1</sup>
+
+<sup>1</sup> Max Planck Institute for Informatics, SIC  &nbsp; &nbsp; &nbsp; &nbsp; <sup>2</sup> Saarland University, SIC  
+
+</center>
+
 ## Official PyTorch implementation
 
 [Project page](https://4dqv.mpi-inf.mpg.de/EventEgo3D/) | [Paper](#) 
