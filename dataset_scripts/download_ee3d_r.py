@@ -1,3 +1,10 @@
+"""
+EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams
+https://4dqv.mpi-inf.mpg.de/EventEgo3D/
+
+Dataset download script
+"""
+
 import os
 import argparse
 import tarfile
