@@ -9,7 +9,7 @@ Christen Millerdurai<sup>1,2</sup>, Hiroyasu Akada<sup>1</sup>, Jian Wang<sup>1<
 
 ## Official PyTorch implementation
 
-[Project page](https://4dqv.mpi-inf.mpg.de/EventEgo3D/) | [Paper](#) 
+[Project page](https://4dqv.mpi-inf.mpg.de/EventEgo3D/) | [Paper](https://arxiv.org/abs/2404.08640) 
 
 <p align="center">
 <img src="images/teaser.gif" alt="EventEgo3D" height="172"  /></br>
