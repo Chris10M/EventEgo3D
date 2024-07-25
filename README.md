@@ -140,7 +140,7 @@ If you find this code useful for your research, please cite our paper:
 
 ## License
 
-Ev2Hands is under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. The license also applies to the pre-trained models.
+EventEgo3D is under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. The license also applies to the pre-trained models.
 
 ## Acknowledgements
 
