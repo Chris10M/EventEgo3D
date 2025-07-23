@@ -1,3 +1,8 @@
+# 🚀 **EventEgo3D++ (IJCV)** is now released!
+Our latest version offers improved performance for **in-the-wild egocentric event streams**, complete with **SMPL body annotations** and **synchronised multi-view RGB images**.
+🔗 Check out the [project page](https://eventego3d.mpi-inf.mpg.de/) for more details and downloads.
+
+
 # EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams [CVPR'24]
 <center>
 
